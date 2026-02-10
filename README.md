@@ -1,50 +1,24 @@
-<h2>Oi 👋! Meu nome é ... e eu sou ..., de ....</h2>
-
-<br />
-
-<div align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&theme=dracula"
-  />
-</div>
-
-<br />
-
-<div align="right">
-  <img
-    src="https://i.imgflip.com/65efzo.gif"
-    height="150"
-  />
-</div>
-
-<br /><br />
-
-### 🚀 Tecnologias
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-</p>
+<h2>Oi 👋! Meu nome é Alan e eu sou estudante na área de desenvolvimento de sistemas.</h2>
 
 <br />
 
 ### 🌐 Onde me encontrar
 
 <p>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.instagram.com/refresh_ti" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:alanguimaraes571@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/SEUPERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 <br />
 
